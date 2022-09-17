@@ -2,7 +2,7 @@
 //  SpotifyCredentials.swift
 //  Swing
 //
-//  Created by Michel Maalouli on 8/10/22.
+//  Created by Rayan khoury on 8/10/22.
 //
 
 import Foundation
