@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Swing
 //
-//  Created by Michel Maalouli on 8/10/22.
+//  Created by Rayan Khoury on 8/10/22.
 //
 
 import UIKit
